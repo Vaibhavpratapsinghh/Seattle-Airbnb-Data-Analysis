@@ -1,6 +1,4 @@
-# 🏡 Seattle Airbnb Data Analysis Dashboard (Tableau)
-
-![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+# Seattle Airbnb Data Analysis Dashboard (Tableau)
 
 ## 📌 Project Overview
 This project analyzes the Seattle Airbnb dataset to uncover pricing patterns, revenue trends, and location-based insights. An interactive Tableau dashboard was developed to enable intuitive data exploration and support data-driven decision-making.
